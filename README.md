@@ -14,7 +14,7 @@
 
 7. A la clase `trailer` darle un ancho `width` del `100%`.
 
-8. A la clase `img` darle un ancho `width` del 10% y un borde de esquinas redondeadas `border-radius` con un valor del `70%`.
+8. A la clase `img` darle un ancho `width` del `10%` y un borde de esquinas redondeadas `border-radius` con un valor del `70%`.
 
 9. Al identificador (id) `Fuego` darle el color `red`. Al identificador `Agua` darle el color `blue`. Al identificador `Planta` darle el color `green`.
 
